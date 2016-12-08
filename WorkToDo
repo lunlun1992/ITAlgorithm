@@ -1,6 +1,5 @@
 Johnson算法*
 差分约束系统
-FF 算法
 Edmonds-Karp算法
 最大二分匹配
 推送-重贴标签算法
@@ -9,4 +8,4 @@ Edmonds-Karp算法
 Hopcroft-Karp二分匹配算法
 伸缩操作计算最大流
 最大流的更新
-chp27.28.29.30
+chp27.28.29.30.31.32.33
